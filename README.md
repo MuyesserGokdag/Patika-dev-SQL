@@ -4,6 +4,18 @@ Bu repo SQL dersinin ödevlerini ve çözümlerini içerir.
 
 Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 
+## 📌 İçindekiler
+
+- [1. Ödev](#odev1)
+- [2. Ödev](#odev2)
+- [3. Ödev](#odev3)
+- [4. Ödev](#odev4)
+- [5. Ödev](#odev5)
+- [6. Ödev](#odev6)
+- [License](#license)
+
+
+<span id="odev1"></span>
 
 ## 1. Ödev
 
@@ -15,6 +27,8 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 4) Customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 5) Film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
+<span id="odev2"></span>
+
 ## 2. Ödev
 
 📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev2_SQL.sql)**
@@ -22,6 +36,8 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 1) Film tablosunda bulunan tüm sütunlardaki verileri replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla sıralayınız ( BETWEEN - AND yapısını kullanınız.)
 2) Actor tablosunda bulunan first_name ve last_name sütunlardaki verileri first_name 'Penelope' veya 'Nick' veya 'Ed' değerleri olması koşuluyla sıralayınız. ( IN operatörünü kullanınız.)
 3) Film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99, 2.99, 4.99 VE replacement_cost 12.99, 15.99, 28.99 olma koşullarıyla sıralayınız. ( IN operatörünü kullanınız.)
+
+<span id="odev3"></span>
 
 ## 3. Ödev
 
@@ -31,6 +47,8 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 2) Country tablosunda bulunan country sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralayınız.
 3) Film tablosunda bulunan title sütunundaki film isimlerinden en az 4 adet büyük ya da küçük harf farketmesizin 'T' karakteri içeren film isimlerini sıralayınız.
 4) Film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile başlayan ve uzunluğu (length) 90 dan büyük olan ve rental_rate 2.99 olan verileri sıralayınız.
+
+<span id="odev4"></span>
 
 ## 4. Ödev
 
@@ -42,6 +60,8 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 4) Country tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
 5) City tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
+<span id="odev5"></span>
+
 ## 5. Ödev
 
 📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev5_SQL.sql)**
@@ -50,6 +70,19 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 2) Film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en kısa (length) ikinci(6,7,8,9,10) 5 filmi(6,7,8,9,10) sıralayınız.
 3) Customer tablosunda bulunan last_name sütununa göre azalan yapılan sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.
 
+<span id="odev6"></span>
+
+## 6. Ödev
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev6_SQL.sql)**
+
+1) Film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
+2) Film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
+3) Film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?
+4) Film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
+
+
+<span id="license"></span>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
