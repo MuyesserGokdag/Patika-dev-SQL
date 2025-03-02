@@ -12,6 +12,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [4. Ödev](#odev4)
 - [5. Ödev](#odev5)
 - [6. Ödev](#odev6)
+- [7. Ödev](#odev7)
 - [License](#license)
 
 
@@ -80,6 +81,17 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 2) Film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
 3) Film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?
 4) Film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
+
+<span id="odev7"></span>
+
+## 7. Ödev
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev7_SQL.sql)**
+
+1) Film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
+2) Film tablosunda bulunan filmleri replacement_cost sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
+3) Customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 
+4) City tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 
 
 <span id="license"></span>
