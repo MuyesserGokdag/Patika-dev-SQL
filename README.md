@@ -13,6 +13,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [5. Ödev](#odev5)
 - [6. Ödev](#odev6)
 - [7. Ödev](#odev7)
+- [8. Ödev](#odev8)
 - [License](#license)
 
 
@@ -93,6 +94,16 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 3) Customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 
 4) City tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 
+<span id="odev8"></span>
+
+## 8. Ödev
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev8_SQL.sql)**
+
+1) Test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
+2) Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
+3) Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
+4) Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
 
 <span id="license"></span>
 
