@@ -6,8 +6,12 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 
 ## 📌 İçindekiler
 
-- [1. Ödev](#odev1)             - [11. Ödev](#odev11)
-- [2. Ödev](#odev2)             - [12. Ödev](#odev12)
+<table>
+<tr>
+<td>
+
+- [1. Ödev](#odev1)
+- [2. Ödev](#odev2)
 - [3. Ödev](#odev3)
 - [4. Ödev](#odev4)
 - [5. Ödev](#odev5)
@@ -16,6 +20,16 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [8. Ödev](#odev8)
 - [9. Ödev](#odev9)
 - [10. Ödev](#odev10)
+
+</td>
+<td>
+
+- [11. Ödev](#odev11)
+- [12. Ödev](#odev12)
+
+</td>
+</tr>
+</table>
 
 
 - [License](#license)
