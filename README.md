@@ -16,6 +16,8 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [8. Ödev](#odev8)
 - [9. Ödev](#odev9)
 - [10. Ödev](#odev10)
+- [11. Ödev](#odev11)
+
 - [License](#license)
 
 
@@ -127,7 +129,16 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 2) Customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
 3) Customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
 
+<span id="odev11"></span>
 
+## 11. Ödev
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev11_SQL.sql)**
+
+1) Actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
+2) Actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
+3) Actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
+4) İlk 3 sorguyu tekrar eden veriler için de yapalım.
 
 <span id="license"></span>
 
