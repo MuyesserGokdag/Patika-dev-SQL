@@ -26,6 +26,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 
 - [11. Ödev](#odev11)
 - [12. Ödev](#odev12)
+- [Genel Tekrar](#lastH)
 
 </td>
 </tr>
@@ -164,6 +165,18 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 2) film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
 3) film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
 4) payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
+
+<span id="lastH"></span>
+
+## Genel Tekrar
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./GenelTekrar.sql)**
+
+1. Soru: film tablosundan 'K' karakteri ile başlayan en uzun ve replacament_cost u en düşük 4 filmi sıralayınız.
+2. Soru: film tablosunda içerisinden en fazla sayıda film bulunduran rating kategorisi hangisidir?
+3. Soru: customer tablosunda en çok alışveriş yapan müşterinin adı nedir?
+4. Soru: category tablosundan kategori isimlerini ve kategori başına düşen film sayılarını sıralayınız.
+5. Soru: film tablosunda isminde en az 4 adet 'e' veya 'E' karakteri bulunan kaç tane film vardır?
 
 
 <span id="license"></span>
