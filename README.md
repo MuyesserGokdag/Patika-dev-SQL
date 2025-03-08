@@ -15,6 +15,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [7. Ödev](#odev7)
 - [8. Ödev](#odev8)
 - [9. Ödev](#odev9)
+- [10. Ödev](#odev10)
 - [License](#license)
 
 
@@ -115,6 +116,17 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 1) City tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 2) Customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 3) Customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
+
+<span id="odev10"></span>
+
+## 10. Ödev
+
+📌 **[Çözümlere buradan ulaşabilirsiniz.](./odev10_SQL.sql)**
+
+1) City tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
+2) Customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
+3) Customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
+
 
 
 <span id="license"></span>
