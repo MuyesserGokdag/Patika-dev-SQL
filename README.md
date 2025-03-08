@@ -8,7 +8,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 - [1. Ödev](#odev1)
 - [2. Ödev](#odev2)
@@ -22,7 +22,7 @@ Kaynak: [Patika.dev Academy](https://academy.patika.dev/courses/sql)
 - [10. Ödev](#odev10)
 
 </td>
-<td>
+<td valign="top">
 
 - [11. Ödev](#odev11)
 - [12. Ödev](#odev12)
